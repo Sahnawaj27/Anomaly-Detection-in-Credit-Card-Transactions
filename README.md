@@ -1,4 +1,6 @@
-**About: **
+🔗 Check out the Power BI Dashboard:
+
+[https://www.novypro.com/project/hr-analytics-dashboard-power-bi-44](https://project.novypro.com/v7KWpU)
 
 Anomaly detection in credit card transactions refers to the process of identifying unusual or fraudulent activities in credit card transactions. It involves applying statistical, machine learning and Power BI techniques to detect patterns and deviations from normal behaviour, helping to identify potential fraudulent transactions in real-time. 
 
